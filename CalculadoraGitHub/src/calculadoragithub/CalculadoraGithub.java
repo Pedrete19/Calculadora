@@ -7,7 +7,7 @@ package calculadoragithub;
 
 /**
  *
- * @author redes
+ * @author Pedrete19
  */
 /**
  *
